@@ -19,7 +19,7 @@ Simple and optimized React Form Signup Login [( See Demo )](https://amloginsignu
 
 Make sure you have the latest Stable or LTS version of Node.js installed.
 
-1. `git clone https://github.com/AmirhosseinAbazari/React-Form-Signup-Login`
+1. `git clone https://github.com/am-abazari/React-Form-Signup-Login`
 2. Run `npm install` or `yarn install`
 3. Start the dev server using `npm start`
 4. Open [http://localhost:3000/](http://localhost:3000/)
@@ -55,4 +55,4 @@ The coverage report consists of an HTML reporter, which can be viewed in the bro
 
 ## About Author
 
-<strong>Amirhossein Abazari</strong> Front-End Web Developer
+<strong>Amirhossein Abazari</strong> Full-Stack Web Developer
